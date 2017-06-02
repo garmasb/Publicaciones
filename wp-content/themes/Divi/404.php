@@ -5,7 +5,7 @@
 		<div id="content-area" class="clearfix">
 			<div id="left-area">
 				<article id="post-0" <?php post_class( 'et_pb_post not_found' ); ?>>
-					<?php get_template_part( 'includes/no-results', '404' ); ?>
+					<?php get_template_part( 'includes/construccion', '404' ); ?>
 				</article> <!-- .et_pb_post -->
 			</div> <!-- #left-area -->
 

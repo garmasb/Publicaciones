@@ -24,13 +24,14 @@
 define('DB_NAME', 'publicaciones');
 
 /** MySQL database username */
-define('DB_USER', 'root');
+define('DB_USER', 'desarrollo');
 
 /** MySQL database password */
-define('DB_PASSWORD', '123456');
+define('DB_PASSWORD', 'Einzeen6K');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost:3307');
+//define('DB_HOST', 'localhost:3307');
+define('DB_HOST', '167.134.102.87');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');

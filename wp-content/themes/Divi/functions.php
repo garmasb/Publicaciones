@@ -1,6 +1,6 @@
 <?php
-update_option('siteurl','localhost/wordpress');
-update_option('home','localhost/wordpress');
+update_option('siteurl','167.134.102.86/wordpress');
+update_option('home','167.134.102.86/wordpress');
 if ( ! isset( $content_width ) ) $content_width = 1080;
 
 function et_setup_theme() {
